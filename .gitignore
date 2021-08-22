@@ -1,0 +1,7 @@
+db.sqlite3
+.git
+.idea
+venv
+myblog/__pycache__
+cars/__pycache__
+cars/migrations
